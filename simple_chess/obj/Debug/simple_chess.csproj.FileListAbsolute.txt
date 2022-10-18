@@ -1,0 +1,10 @@
+C:\Users\Colten\source\repos\simple_chess\simple_chess\bin\Debug\simple_chess.exe.config
+C:\Users\Colten\source\repos\simple_chess\simple_chess\bin\Debug\simple_chess.exe
+C:\Users\Colten\source\repos\simple_chess\simple_chess\bin\Debug\simple_chess.pdb
+C:\Users\Colten\source\repos\simple_chess\simple_chess\obj\Debug\simple_chess.csprojAssemblyReference.cache
+C:\Users\Colten\source\repos\simple_chess\simple_chess\obj\Debug\simple_chess.Properties.Resources.resources
+C:\Users\Colten\source\repos\simple_chess\simple_chess\obj\Debug\simple_chess.csproj.GenerateResource.cache
+C:\Users\Colten\source\repos\simple_chess\simple_chess\obj\Debug\simple_chess.csproj.CoreCompileInputs.cache
+C:\Users\Colten\source\repos\simple_chess\simple_chess\obj\Debug\simple_chess.exe
+C:\Users\Colten\source\repos\simple_chess\simple_chess\obj\Debug\simple_chess.pdb
+C:\Users\Colten\source\repos\simple_chess\simple_chess\obj\Debug\simple_chess.Form1.resources
